@@ -1,3 +1,3 @@
 # github-showcase
 
-This repo is just a showcase for GitHub features.
+This repo is just a showcase for GitHub features!
